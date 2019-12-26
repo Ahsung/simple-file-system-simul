@@ -3,8 +3,8 @@
 linux env
 
 instruction: 
-mv (only renaming)
-cd
+mv (only renaming)\n
+cd\n
 ls
 mkdir
 touch (command to make a file)
