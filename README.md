@@ -2,6 +2,8 @@
 
 linux env
 
+
+
 instruction:
 
 mv (only renaming)
@@ -21,6 +23,7 @@ rm
 cpin [local] [sfs]  ( copy file from local system, to SFS )
 
 cpout [local] [sfs] ( copy file from SFS, to local system )
+
 
 
 sfs_func_ext.o :
