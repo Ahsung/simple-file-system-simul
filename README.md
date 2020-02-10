@@ -5,7 +5,7 @@
 
 
 ## **instruction:**
-
+----------------------------------------------------------------
 > * mv (only renaming)
 > * cd
 > * ls
@@ -15,12 +15,10 @@
 > * rm
 > * cpin [local] [sfs]  ( copy file from local system, to SFS )
 > * cpout [local] [sfs] ( copy file from SFS, to local system )
-----------------------------------------------------------------
 
 ## **sfs_func_ext.o :**
-
-this obj have Command  ( dump, fsck , bitmap ) 
-
-but it can be compiled limited env (32bit CPU..,,centos,,.. etc..)
+----------------------------------------------------------------
+> this obj have Command  ( dump, fsck , bitmap ) 
+> but it can be compiled limited env (32bit CPU..,,centos,,.. etc..)
 
 
