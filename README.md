@@ -19,6 +19,7 @@
 ## **sfs_func_ext.o :**
 ----------------------------------------------------------------
 > this obj have Command  ( dump, fsck , bitmap ) 
-> but it can be compiled limited env (32bit CPU..,,centos,,.. etc..)
+> this is compiled with out -fPIC,
+> so you want to use on OS compiling Default -fPIC ex) Ubuntu, when compile, must use "-no-pie" option
 
 
