@@ -5,7 +5,7 @@
 
 
 ## **instruction:**
-----------------------------------------------------------------
+
 > * mount <disk.img>
 > * mv (only renaming)
 > * cd
@@ -20,7 +20,7 @@
 > * exit
 
 ## **sfs_func_ext.o :**
-----------------------------------------------------------------
+
 > * this obj have Command  ( dump, fsck , bitmap ) <br>
 > * this is compiled with out -fPIC,<br>
 >   so you want to use on OS compiling Default -fPIC ex) Ubuntu,<br>
